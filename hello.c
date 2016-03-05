@@ -8,5 +8,7 @@ int main(){
 		arr[i] =i+10;
 		printf("%d\n",arr[i] );
 	}
+	printf("*****************");
+
 	return 0;
 }
